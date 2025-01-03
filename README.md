@@ -8,7 +8,7 @@ This repository contains two Python-based countdown timer applications. The firs
    - A terminal-based countdown timer.
    - Users input the deadline, and the remaining time is displayed in real-time.
 
-2. **gui_timer.py**
+2. **main_2.py**
    - A GUI-based countdown timer.
    - Features an intuitive interface for entering the deadline and a real-time countdown display.
 
